@@ -1,0 +1,40 @@
+.cabecalho{
+    margin-bottom: 20px;
+}
+
+.carousel-item{
+    max-width: 100%;
+    align-content: center;
+}
+
+.carousel{
+    margin-bottom: 20px;
+}
+
+.sobre-nos{
+    margin-bottom: 20px;
+}
+
+.sobre-scratch{
+    margin-bottom: 20px;
+}
+
+.jogo{
+    margin-bottom: 20px;
+}
+
+.sobre-jogo{
+    margin-bottom: 20px;
+}
+
+.nobel{
+    margin-bottom: 20px;
+}
+
+.rodape{
+    text-align: center;
+}
+
+.img{
+    max-width: 100%;
+}
